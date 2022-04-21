@@ -1,0 +1,1 @@
+#Repositorio referente aos scripts de SQL do modulo DEVARIA
